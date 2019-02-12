@@ -4,7 +4,7 @@
 
 ## github地址: [https://github.com/zhongqianli](https://github.com/zhongqianli)
 
-## github项目列表: [https://zhongqianli.github.io/](https://zhongqianli.github.io)
+## github项目列表: [https://zhongqianli.github.io](https://zhongqianli.github.io)
 
 **PS: 点击项目名称可以跳转到相应的repository**
 
