@@ -36,7 +36,7 @@ opencv的dnn模块使用caffe训练的cifar10分类模型进行图像识别
 ### [**image_focus_assessment**](https://github.com/zhongqianli/image_focus_assessment)
 虹膜图像清晰度评估
 
-### [**morph_snakes(C++版本)**](https://github.com/zhongqianli/morph_snakes) 和  [**MorphGAC（matlab版本）**](https://github.com/zhongqianli/morph_snakes)
+### [**morph_snakes(C++版本)**](https://github.com/zhongqianli/morph_snakes) 和  [**MorphGAC（matlab版本）**](https://github.com/zhongqianli/MorphGAC)
 根据论文《A Morphological Approach to Curvature-Based Evolution of Curves and Surfaces》实现了MorphGAC
 
 ### [**local_binary_pattern**](https://github.com/zhongqianli/local_binary_pattern)
