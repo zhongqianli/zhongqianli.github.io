@@ -6,6 +6,9 @@
 
 **PS: 点击项目名称可以跳转到相应的repository**
 
+### [** iris_detector **](https://github.com/zhongqianli/iris_detector) 
+在CPU上实时运行的基于深度学习的虹膜检测
+
 ### [**keras-retinanet**](https://github.com/zhongqianli/keras-retinanet)
 Trainning a face detector by transfer learning based on keras-retinanet.
 
