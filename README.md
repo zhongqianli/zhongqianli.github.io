@@ -15,20 +15,8 @@ Trainning a face detector by transfer learning based on keras-retinanet.
 ### [**iris_detection-adaboost_lbp**](https://github.com/zhongqianli/iris_detection-adaboost_lbp)
 基于adaboost + lbp的虹膜检测。
 
-### [**caffe_vgg**](https://github.com/zhongqianli/caffe_vgg)
-用pycaffe实现了《Very Deep Convolutional Networks for Large-Scale Image Recognition》提出的VGG网络
-
-### [**caffe_googlenet**](https://github.com/zhongqianli/caffe_googlenet)
-用pycaffe实现了《Going Deeper with Convolutions》提出的GoogleNet，并在cifar10数据集上训练模型。 该作者受到NiN网络的启发，提出了一种高效的深度学习框架。使用了1x1卷积（bottleneck），用于增加网络的宽度和深度，以及减少计算量。Inception模块是在naive inception的基础上加入了1x1卷积，可以有效降低计算复杂度。最后使用了avg pool。 网络的设计遵循了这样的规则：视觉信息应该在不同尺寸进行处理，然后将它们合并在一起供下一阶段使用。
-
-### [**caffe_resnet**](https://github.com/zhongqianli/caffe_resnet)
-用pycaffe实现了《Deep Residual Learning for Image Recognition》提出的ResNet，并在cifar10数据集上训练模型。
-
 ### [**caffe_python_layer**](https://github.com/zhongqianli/caffe_python_layer)
 使用python layer自定义数据增强层，对于准确率的提升有一定的效果。
-
-### [**cifar10_classification**](https://github.com/zhongqianli/cifar10_classification)
-opencv的dnn模块使用caffe训练的cifar10分类模型进行图像识别
 
 ### [**transfer_learning**](https://github.com/zhongqianli/transfer_learning)
 使用keras实现transfer learning，使用了cifar10数据库和vgg16模型。
