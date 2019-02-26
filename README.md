@@ -1,4 +1,4 @@
-# [github项目列表](https://zhongqianli.github.io)
+# [github开源项目列表](https://zhongqianli.github.io)
 
 ## CSDN博客: [https://blog.csdn.net/zhongqianli](https://blog.csdn.net/zhongqianli)
 
