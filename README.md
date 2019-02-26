@@ -7,13 +7,10 @@
 **PS: 点击项目名称可以跳转到相应的repository**
 
 ### [**iris_detector**](https://github.com/zhongqianli/iris_detector) 
-在CPU上实时运行的基于深度学习的虹膜检测
+在CPU上实时运行的基于深度学习的虹膜检测, 在intel i5 CPU上的运行时间为8ms。
 
 ### [**keras-retinanet**](https://github.com/zhongqianli/keras-retinanet)
 Trainning a face detector by transfer learning based on keras-retinanet.
-
-### [**iris_detection-resnet10_ssd**](https://github.com/zhongqianli/iris_detection-resnet10_ssd)
-基于resnet10+ssd的虹膜检测，利用迁移学习技术，用opencv dnn的face detector模型训练iris detector。
 
 ### [**iris_detection-adaboost_lbp**](https://github.com/zhongqianli/iris_detection-adaboost_lbp)
 基于adaboost + lbp的虹膜检测。
